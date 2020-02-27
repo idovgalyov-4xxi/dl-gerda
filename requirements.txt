@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+
+tensorflow==1.15
