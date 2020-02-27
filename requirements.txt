@@ -2,4 +2,4 @@ numpy
 scipy
 pandas
 
-tensorflow==1.15
+tensorflow==1.15.2
